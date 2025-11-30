@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ahrab/OneDrive/Desktop/pathFinder",
-      "program": "c:/Users/ahrab/OneDrive/Desktop/pathFinder/build/Debug/outDebug",
+      "cwd": "c:/Users/ahrab/OneDrive/Desktop/pathFinder/yngkeem",
+      "program": "c:/Users/ahrab/OneDrive/Desktop/pathFinder/yngkeem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
